@@ -1,0 +1,21 @@
+{
+    "name": "potter/socket-client-trait",
+    "description": "PHP Socket Client Trait",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Socket\\Client\\": "src/Potter/Socket/Client/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
