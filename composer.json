@@ -5,6 +5,13 @@
     "require": {
         "php": "^8.3"
     },
+    "suggest": {
+        "potter/socket-client": "dev-main",
+        "potter/socket-traits": "dev-main",
+        "potter/socket": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
